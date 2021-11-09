@@ -84,13 +84,12 @@ body {
   align-items: center;
   text-align: center;
   letter-spacing: 0.06em;
-  color: var(--second-button-color);
+  color: var(--first-text-color);
 }
 
 .hero-btn:hover,
 .hero-btn:focus {
   color: var(--accent-color);
-  color: var(--first-button-color);
 }
 
 /* PECULIARITIES */
@@ -201,6 +200,7 @@ body {
 /* FOOTER */
 
 .footer-logo {
+  font-family: Raleway;
   font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
@@ -209,6 +209,7 @@ body {
 }
 
 .address-link {
+  font-style: normal;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
