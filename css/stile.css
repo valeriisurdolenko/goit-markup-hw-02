@@ -84,12 +84,13 @@ body {
   align-items: center;
   text-align: center;
   letter-spacing: 0.06em;
-  color: var(--first-text-color);
+  color: var(--first-button-color);
 }
 
 .hero-btn:hover,
 .hero-btn:focus {
   color: var(--accent-color);
+  color: var(--first-button-color);
 }
 
 /* PECULIARITIES */
